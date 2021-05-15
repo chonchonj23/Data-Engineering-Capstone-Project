@@ -59,12 +59,12 @@ World GDP
 Columns Names            Meaning                                            Data Type            Used in data model 
 Country            :     Name of country                               :    String           :   Yes
 GDP in USD 2010    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2011    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2012    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2013    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2014    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2015    :     GDP in USD in year 2010                       :    float            :   Yes
-GDP in USD 2016    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2011    :     GDP in USD in year 2011                       :    float            :   Yes
+GDP in USD 2012    :     GDP in USD in year 2012                       :    float            :   Yes
+GDP in USD 2013    :     GDP in USD in year 2013                       :    float            :   Yes
+GDP in USD 2014    :     GDP in USD in year 2014                       :    float            :   Yes
+GDP in USD 2015    :     GDP in USD in year 2015                       :    float            :   Yes
+GDP in USD 2016    :     GDP in USD in year 2016                       :    float            :   Yes
 
 
 
@@ -73,21 +73,10 @@ World Population
 Columns Names            Meaning                                            Data Type            Used in data model 
 Country            :     Name of country                               :    String           :   Yes
 Population 2010    :     Population in year 2010                       :    float            :   Yes
-Population 2011    :     Population in year 2010                       :    float            :   Yes
-Population 2012    :     Population in year 2010                       :    float            :   Yes
-Population 2013    :     Population in year 2010                       :    float            :   Yes
-Population 2014    :     Population in year 2010                       :    float            :   Yes
-Population 2015    :     Population in year 2010                       :    float            :   Yes
-Population 2016    :     Population in year 2010                       :    float            :   Yes
+Population 2011    :     Population in year 2011                       :    float            :   Yes
+Population 2012    :     Population in year 2012                       :    float            :   Yes
+Population 2013    :     Population in year 2013                       :    float            :   Yes
+Population 2014    :     Population in year 2014                       :    float            :   Yes
+Population 2015    :     Population in year 2015                       :    float            :   Yes
+Population 2016    :     Population in year 2016                       :    float            :   Yes
 
-
-
-
-
-
-
- 
- Ad hoc notes:
- /* ENTDEPU - Update Flag - Either apprehended, overstayed, adjusted to perm residence - CIC does not use */
- Arrival_date (Datetime): arrdate in datetime object.Used to map to Date dimensions
-i94port - destination city   for mapping USDemographics and City Temperature data
