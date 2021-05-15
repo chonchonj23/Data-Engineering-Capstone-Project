@@ -1,0 +1,93 @@
+Data Dictionary
+
+
+
+I94 Immigration Data
+
+Columns Names            Meaning                                            Data Type            Used in data model 
+cicid              :     Record Identifier (Primary key )              :    float            :   Yes
+i94yr              :     4 digit year of the arrival                   :    float            :   Yes
+i94mon             :     numeric month of the arrival                  :    float            :   Yes
+i94cit             :     3 digit code of origin country                :    float            :   Yes
+i94res             :     3 digit code of residence country             :    float            :   Yes
+i94port            :     Port of arrival in US                         :    string           :   Yes
+arrdate            :     arrival date in US                            :    float            :   Yes
+i94mode            :     transportation mode                           :    float            :   Yes
+i94addr            :     State of arrival in US                        :    string           :   Yes
+depdate            :     departure date                                :    float            :    No
+i94bir             :     Age of Respondent in Years                    :    float            :   Yes
+i94visa            :     Visa codes (3 categories)                     :    float            :   Yes
+count              :     Used for summary statistic                    :    float            :   Yes
+dtadfile           :     arrival date in number format                 :    float            :   Yes
+visapost           :     Department of State where visa was issued     :    string           :    No
+occup              :     Occupation                                    :    string           :    No
+entdepa            :     Arrival Flag                                  :    string           :   Yes
+entdepd            :     Departure Flag                                :    string           :    No
+entdepu            :     Update Flag                                   :    string           :    No
+matflag            :     Match of arrival and departure records        :    string           :   Yes
+biryear            :     4 digit year of birth                         :    float            :    No
+dtaddto            :     Max out date of stay in US                    :    float            :   Yes
+gender             :     Sex                                           :    string           :   Yes         
+insnum             :     INS number                                    :    string           :    No           
+airline            :     Airline used to arrive at US                  :    string           :    No
+admnum             :     Admission Number                              :    float            :    No
+fltno              :     Flight number of Airline                      :    string           :    No 
+visatype           :     Class of admission                            :    string           :   Yes
+
+
+
+US City Demographics
+  
+Columns Names            Meaning                                            Data Type            Used in data model 
+City               :     Name of city in US                            :    String           :   Yes
+State              :     Name of state in US                           :    Srting           :   Yes
+Median Age         :     Median age of residents                       :    float            :   Yes
+Male Population    :     Number of male residents                      :    integer          :   Yes
+Female Population  :     Number of female residents                    :    integer          :   Yes
+Total Population   :     Total number of residents                     :    integer          :   Yes
+Number of Veterans :     Number of veteran residents                   :    integer          :   Yes
+Foreign-born       :     Number of foreign-born residents              :    integer          :   Yes
+Average Household  :     Size of average household                     :    integer          :   Yes
+State Code         :     State in US                                   :    String           :   Yes
+Race               :     race of residents                             :    String           :   Yes
+Count              :     Used for summary statistic                    :    integer          :    No
+
+
+
+World GDP 
+  
+Columns Names            Meaning                                            Data Type            Used in data model 
+Country            :     Name of country                               :    String           :   Yes
+GDP in USD 2010    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2011    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2012    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2013    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2014    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2015    :     GDP in USD in year 2010                       :    float            :   Yes
+GDP in USD 2016    :     GDP in USD in year 2010                       :    float            :   Yes
+
+
+
+World Population 
+  
+Columns Names            Meaning                                            Data Type            Used in data model 
+Country            :     Name of country                               :    String           :   Yes
+Population 2010    :     Population in year 2010                       :    float            :   Yes
+Population 2011    :     Population in year 2010                       :    float            :   Yes
+Population 2012    :     Population in year 2010                       :    float            :   Yes
+Population 2013    :     Population in year 2010                       :    float            :   Yes
+Population 2014    :     Population in year 2010                       :    float            :   Yes
+Population 2015    :     Population in year 2010                       :    float            :   Yes
+Population 2016    :     Population in year 2010                       :    float            :   Yes
+
+
+
+
+
+
+
+ 
+ Ad hoc notes:
+ /* ENTDEPU - Update Flag - Either apprehended, overstayed, adjusted to perm residence - CIC does not use */
+ Arrival_date (Datetime): arrdate in datetime object.Used to map to Date dimensions
+i94port - destination city   for mapping USDemographics and City Temperature data

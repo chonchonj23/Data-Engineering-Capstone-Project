@@ -1,0 +1,568 @@
+,US City
+0,Silver Spring
+1,Quincy
+2,Hoover
+3,Rancho Cucamonga
+4,Newark
+5,Peoria
+6,Avondale
+7,West Covina
+8,O'Fallon
+9,High Point
+10,Folsom
+11,Philadelphia
+12,Wichita
+13,Fort Myers
+14,Pittsburgh
+15,Laredo
+16,Berkeley
+17,Santa Clara
+18,Allen
+19,Hampton
+20,Bolingbrook
+21,Frederick
+22,Sparks
+23,Rancho Cordova
+24,Westminster
+25,Lakewood
+26,Flint
+27,New Haven
+28,Brooklyn Park
+29,Chula Vista
+30,Danbury
+31,Framingham
+32,Saint Petersburg
+33,Miami Gardens
+34,Salt Lake City
+35,Suffolk
+36,North Little Rock
+37,Jurupa Valley
+38,Los Angeles
+39,Flower Mound
+40,Vacaville
+41,Clarksville
+42,New Britain
+43,Tulsa
+44,Seattle
+45,Mesa
+46,Yonkers
+47,Camden
+48,Alexandria
+49,Jonesboro
+50,El Monte
+51,Roswell
+52,Omaha
+53,Troy
+54,Winston-Salem
+55,Corpus Christi
+56,Atlanta
+57,Bryan
+58,Lynchburg
+59,Columbia
+60,Killeen
+61,Nashville
+62,Somerville
+63,Bakersfield
+64,Montgomery
+65,Huntsville
+66,Greensboro
+67,Turlock
+68,Lynwood
+69,El Paso
+70,Lexington-Fayette  county
+71,Rock Hill
+72,Richardson
+73,Waco
+74,San Buenaventura
+75,Stamford
+76,Vallejo
+77,Denver
+78,Springdale
+79,Chino
+80,Toms River
+81,Lynn
+82,Lawton
+83,Garland
+84,Layton
+85,Bloomington
+86,Newton
+87,Clearwater
+88,Kenner
+89,Las Cruces
+90,Yakima
+91,Des Moines
+92,Wichita Falls
+93,Wilmington
+94,Cranston
+95,Amarillo
+96,Buffalo
+97,Livonia
+98,San Leandro
+99,Fresno
+100,Saint George
+101,San Juan
+102,Redlands
+103,Thousand Oaks
+104,Rio Rancho
+105,Provo
+106,Tallahassee
+107,Aurora
+108,Minneapolis
+109,Anaheim
+110,San Marcos
+111,Norwalk
+112,Fort Worth
+113,Cambridge
+114,Deerfield Beach
+115,Beaumont
+116,Spring Valley
+117,Sioux City
+118,Alafaya
+119,Washington
+120,Grand Prairie
+121,Waukesha
+122,Miami Beach
+123,North Las Vegas
+124,Fort Smith
+125,Salinas
+126,Springfield
+127,Bellingham
+128,Green Bay
+129,Maple Grove
+130,Escondido
+131,Rockford
+132,Memphis
+133,Caguas
+134,Metairie
+135,Tracy
+136,Champaign
+137,West Palm Beach
+138,Beaverton
+139,Ogden
+140,Decatur
+141,Pompano Beach
+142,Nashua
+143,Vancouver
+144,Fargo
+145,El Cajon
+146,Lancaster
+147,Miramar
+148,Riverview
+149,Arlington Heights
+150,Lorain
+151,Mesquite
+152,Appleton
+153,Johns Creek
+154,Nampa
+155,Sterling Heights
+156,Tacoma
+157,Manchester
+158,Overland Park
+159,Cicero
+160,Weston
+161,Meridian
+162,Trenton
+163,Temecula
+164,Saint Charles
+165,Antioch
+166,Eugene
+167,Edinburg
+168,Huntington Beach
+169,Torrance
+170,South Bend
+171,Bethlehem
+172,Birmingham
+173,Hawthorne
+174,Boca Raton
+175,Vista
+176,Brockton
+177,New Rochelle
+178,Dearborn
+179,Charleston
+180,Elizabeth
+181,Syracuse
+182,Redding
+183,Scottsdale
+184,Glendale
+185,Fishers
+186,Waldorf
+187,Las Vegas
+188,Victoria
+189,Anchorage
+190,San Diego
+191,Dayton
+192,Auburn
+193,Charlotte
+194,Gulfport
+195,Abilene
+196,Centreville
+197,Pleasanton
+198,Waterbury
+199,Davie
+200,Houston
+201,Concord
+202,Eagan
+203,Duluth
+204,Carolina
+205,Ellicott City
+206,Port Saint Lucie
+207,Greeley
+208,Ames
+209,West Jordan
+210,Chico
+211,Chino Hills
+212,New Bedford
+213,San Bernardino
+214,Longmont
+215,Lincoln
+216,Pasco
+217,Cincinnati
+218,New Braunfels
+219,Union City
+220,Fontana
+221,Milwaukee
+222,Racine
+223,Santa Maria
+224,Marysville
+225,Inglewood
+226,Cedar Rapids
+227,German
+228,Highlands Ranch
+229,Tustin
+230,Kent
+231,Urban Honolulu
+232,Richmond
+233,Deltona
+234,Kissimmee
+235,San Mateo
+236,Fall River
+237,Carmichael
+238,Lauderhill
+239,Worcester
+240,Providence
+241,Fayetteville
+242,Santa Rosa
+243,Lakeland
+244,Boulder
+245,Bayonne
+246,Santa Barbara
+247,Yuba City
+248,Palo Alto
+249,Pueblo
+250,The Villages
+251,Fort Wayne
+252,Santa Ana
+253,Bismarck
+254,Phoenix
+255,Daly City
+256,South San Francisco
+257,Independence
+258,Kennewick
+259,Flagstaff
+260,Brandon
+261,Kansas City
+262,Waukegan
+263,Fort Collins
+264,Jacksonville
+265,Cary
+266,Saint Joseph
+267,Melbourne
+268,Palm Bay
+269,Plantation
+270,Olathe
+271,Sioux Falls
+272,Portsmouth
+273,Jackson
+274,Spokane
+275,Colorado Springs
+276,McKinney
+277,Henderson
+278,Norfolk
+279,Arvada
+280,Hollywood
+281,Chesapeake
+282,Columbus
+283,Spring Hill
+284,Kenosha
+285,Kendall
+286,Redondo Beach
+287,Walnut Creek
+288,Mission
+289,McAllen
+290,Cheektowaga
+291,Oceanside
+292,Orlando
+293,Parma
+294,Harlingen
+295,Pembroke Pines
+296,Alhambra
+297,Brentwood
+298,Riverside
+299,Menifee
+300,Kalamazoo
+301,Carson
+302,Ann Arbor
+303,Farmington Hills
+304,Missouri City
+305,Orange
+306,Everett
+307,Citrus Heights
+308,Gainesville
+309,Milpitas
+310,Tampa
+311,Santa Monica
+312,Eau Claire
+313,Enterprise
+314,Shawnee
+315,North Charleston
+316,Boynton Beach
+317,Temple
+318,Rockville
+319,Cape Coral
+320,Manteca
+321,Little Rock
+322,Oxnard
+323,Bk
+324,Evanston
+325,Atascocita
+326,Surprise
+327,Dothan
+328,Rapid City
+329,Lee's Summit
+330,Warren
+331,Erie
+332,Mountain View
+333,West Valley City
+334,Hartford
+335,Fremont
+336,Elgin
+337,Greenville
+338,Gastonia
+339,Frisco
+340,Oklahoma City
+341,Carlsbad
+342,Pasadena
+343,Naperville
+344,Johnson City
+345,Goodyear
+346,Wyoming
+347,Reading
+348,Rochester Hills
+349,Madison
+350,Portland
+351,College Station
+352,Lewisville
+353,Raleigh
+354,Mount Vernon
+355,Dallas
+356,San Tan Valley
+357,East Orange
+358,Austin
+359,Casas Adobes
+360,Indianapolis
+361,Renton
+362,Odessa
+363,Round Rock
+364,Santa Fe
+365,Akron
+366,San Jose
+367,Saint Paul
+368,Muncie
+369,Victorville
+370,Murfreesboro
+371,Chattanooga
+372,Fairfield
+373,Toledo
+374,Asheville
+375,Savannah
+376,Louisville/Jefferson County metro government
+377,Yorba Linda
+378,Billings
+379,Denton
+380,Long Beach
+381,Tuscaloosa
+382,Elk Grove
+383,Paradise
+384,Sandy Springs
+385,Pearland
+386,Virginia Beach
+387,Roseville
+388,Homestead
+389,Iowa City
+390,Arden-Arcade
+391,Largo
+392,Carrollton
+393,Chandler
+394,Irvine
+395,Medford
+396,Coral Springs
+397,Bossier City
+398,Woodbury
+399,Boston
+400,Pittsburg
+401,San Ramon
+402,Reno
+403,Topeka
+404,Newport News
+405,Poinciana
+406,Compton
+407,Cedar Park
+408,Merced
+409,Shreveport
+410,Palatine
+411,San Angelo
+412,Passaic
+413,Lake Charles
+414,North Richland Hills
+415,Boise
+416,Carmel
+417,Palmdale
+418,Baltimore
+419,Indio
+420,Florence-Graham
+421,Santa Clarita
+422,Buena Park
+423,San Clemente
+424,Lawrence
+425,Downey
+426,Lafayette
+427,Newport Beach
+428,Schenectady
+429,South Gate
+430,Brownsville
+431,Costa Mesa
+432,Tyler
+433,Napa
+434,Centennial
+435,Sunrise
+436,Tucson
+437,Fullerton
+438,Lake Forest
+439,Stockton
+440,San Antonio
+441,Orem
+442,Norman
+443,Youngs
+444,Hayward
+445,Sandy
+446,Moreno Valley
+447,Delray Beach
+448,Gresham
+449,Federal Way
+450,Waterloo
+451,Jersey City
+452,Mission Viejo
+453,Dale City
+454,Albuquerque
+455,Plano
+456,Hesperia
+457,Lehigh Acres
+458,Pawtucket
+459,Town 'n' Country
+460,Saint Cloud
+461,Midland
+462,Chicago
+463,Knoxville
+464,Westland
+465,Yuma
+466,Roanoke
+467,Rialto
+468,Pomona
+469,Warner Robins
+470,East Los Angeles
+471,Simi Valley
+472,Davenport
+473,Thornton
+474,Gary
+475,Palm Coast
+476,Hialeah
+477,Clifton
+478,Bellflower
+479,Broomfield
+480,Joliet
+481,San Francisco
+482,Camarillo
+483,Skokie
+484,Redwood City
+485,Evansville
+486,Hillsboro
+487,The Woodlands
+488,Longview
+489,Upland
+490,Sunrise Manor
+491,Lubbock
+492,Kirkland
+493,Garden Grove
+494,Baton Rouge
+495,Livermore
+496,Paterson
+497,Conroe
+498,Edmond
+499,Sacramento
+500,Detroit
+501,Ontario
+502,Alameda
+503,Clovis
+504,Gilbert
+505,Hammond
+506,Saint Louis
+507,Athens-Clarke County unified government
+508,Scranton
+509,Modesto
+510,Perris
+511,South Jordan
+512,Visalia
+513,Davis
+514,Gaithersburg
+515,Albany
+516,Plymouth
+517,Corona
+518,Rochester
+519,Oshkosh
+520,Baldwin Park
+521,Oakland
+522,Augusta-Richmond County consolidated government
+523,Salem
+524,Schaumburg
+525,Lowell
+526,Glen Burnie
+527,Bend
+528,Bridgeport
+529,Broken Arrow
+530,New Orleans
+531,Arlington
+532,Bellevue
+533,Irving
+534,Whittier
+535,Bay
+536,Loveland
+537,Mount Pleasant
+538,Hemet
+539,Franklin
+540,Sugar Land
+541,Murrieta
+542,Miami
+543,Apple Valley
+544,Macon
+545,Cleveland
+546,Tempe
+547,Southfield
+548,Durham
+549,Pharr
+550,Spokane Valley
+551,Grand Rapids
+552,Sunnyvale
+553,Fort Lauderdale
+554,Warwick
+555,Canton
+556,Lansing
+557,Mayagüez
+558,Laguna Niguel
+559,Pine Hills
+560,New York
+561,Ponce
+562,Bayamón
+563,Mobile
+564,League City
+565,Guaynabo
+566,Missoula
